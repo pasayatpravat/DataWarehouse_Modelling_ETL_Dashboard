@@ -1,0 +1,9 @@
+Independent Expenditures
+
+DESCRIPTION 
+Independent expenditures represent spending by individual people or groups or political committees or (new for 2010) corporations or unions expressly advocating the election or defeat of clearly identified federal candidates.
+
+
+Source:
+
+(1) https://public.enigma.com/datasets/independent-expenditures-2016/dc15823c-6e6d-4e7f-bf7d-50939f56730b
